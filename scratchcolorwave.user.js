@@ -3,7 +3,6 @@
   <head>
     <script>
       window.location = "http://stylebot.me/style/userscript/13604.user.js";
-      window.history.back();
     </script>
   </head>
   <body>
