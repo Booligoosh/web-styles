@@ -1,4 +1,13 @@
-window.location = "http://stylebot.me/style/userscript/13604.user.js";
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script>
+      window.location = "http://stylebot.me/style/userscript/13604.user.js";
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
 
 // ==UserScript==
 // @name  Scratch ColorWave
